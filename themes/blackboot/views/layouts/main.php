@@ -140,7 +140,7 @@
 				&nbsp;
 			</div> <!-- /span6 -->
 			<div id="footer-terms" class="col-md-6">
-				© 2015-2016 Griffin Lab</a>.
+				© 2016 Griffin Lab</a>.
 			</div> <!-- /.span6 -->
 		 </div> <!-- /row -->
 	  </div> <!-- /container -->
